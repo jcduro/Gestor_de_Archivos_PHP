@@ -160,5 +160,5 @@ Puedes modificarlo según tus necesidades, pero se recomienda mantener las medid
 Abre el archivo desde tu navegador:
 
    ```bash
-   http://tusitio.com/gestor/index.php
+   https://github.com/jcduro/Gestor_de_Archivos_php
 
