@@ -45,12 +45,19 @@ Columbia Blue translúcido rgba(210, 232, 255, 0.4)
 Edita las siguientes opciones en la parte superior del archivo PHP:
 
 $allow_delete = false;     // Permite eliminar archivos
+
 $allow_upload = true;      // Permite subir archivos
+
 $allow_create_folder = true; // Permite crear carpetas
+
 $allow_direct_link = true; // Permite abrir archivos directamente
+
 $allow_show_folders = true; // Muestra subdirectorios
+
 $disallowed_extensions = ['php']; // Bloquea subidas peligrosas
+
 $hidden_extensions = ['php'];     // Oculta archivos PHP
+
 $PASSWORD = ''; // (Opcional) contraseña para acceder
 
 
