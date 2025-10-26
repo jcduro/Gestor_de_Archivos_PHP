@@ -40,6 +40,13 @@ Columbia Blue translúcido rgba(210, 232, 255, 0.4)
 
 ---
 
+## 📊 Lenguajes y Herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,github,vscode,windows,&theme=light&perline=8)](https://skillicons.dev)
+
+
+---
+
 ##⚙️ Configuración Inicial
 
 Edita las siguientes opciones en la parte superior del archivo PHP:
