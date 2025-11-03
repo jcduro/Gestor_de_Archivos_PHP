@@ -1,15 +1,17 @@
 ##📂 File Manager PHP – Bexart Edition
 
+--- 
+
+## Descripción
+
 Un gestor de archivos PHP completamente funcional, con una interfaz moderna, soporte para carga de archivos, creación de carpetas, descargas, y navegación dentro del servidor.
 Incluye un diseño estilizado con colores personalizados y adaptado para dispositivos móviles (responsive).
 
 ---
 
----
-
 ## ✨ Vista previa
 
-![Bgestor Archivos?Preview](preview.gif)
+![Gestor Archivos_Preview](preview.gif)
 
 --- 
 
