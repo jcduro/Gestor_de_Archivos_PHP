@@ -13,6 +13,12 @@ Incluye un diseño estilizado con colores personalizados y adaptado para disposi
 
 ![Gestor Archivos_Preview](preview.gif)
 
+---
+
+✨ Pruebalo Online
+
+[Gestor_Archivos](https://jcduro.bexartideas.com/proyeectos/gestor_files/index.php)
+
 --- 
 
 ##🚀 Características Principales
