@@ -17,7 +17,7 @@ Incluye un diseño estilizado con colores personalizados y adaptado para disposi
 
 ✨ Pruebalo Online
 
-[Gestor_Archivos](https://jcduro.bexartideas.com/proyeectos/gestor_files/index.php)
+[Gestor_Archivos](https://jcduro.bexartideas.com/proyectos/gestor_files/index.php)
 
 --- 
 
