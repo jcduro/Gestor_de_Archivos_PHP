@@ -1,8 +1,8 @@
-##📂 File Manager PHP – Bexart Edition
+## 📂 File Manager PHP – Bexart Edition
 
 --- 
 
-## Descripción
+## ✨ Descripción
 
 Un gestor de archivos PHP completamente funcional, con una interfaz moderna, soporte para carga de archivos, creación de carpetas, descargas, y navegación dentro del servidor.
 Incluye un diseño estilizado con colores personalizados y adaptado para dispositivos móviles (responsive).
@@ -15,13 +15,13 @@ Incluye un diseño estilizado con colores personalizados y adaptado para disposi
 
 ---
 
-✨ Pruebalo Online
+## ✨ Pruebalo Online
 
 [Gestor_Archivos](https://jcduro.bexartideas.com/proyectos/gestor_files/index.php)
 
 --- 
 
-##🚀 Características Principales
+## 🚀 Características Principales
 
 🗂️ Exploración de carpetas y archivos dentro del servidor.
 
@@ -39,7 +39,7 @@ Incluye un diseño estilizado con colores personalizados y adaptado para disposi
 
 ---
 
-##🎨 Tema visual personalizado con paleta de colores:
+## 🎨 Tema visual personalizado con paleta de colores:
 
 Cal Poly Green #26422A
 Flame #EA672D
@@ -78,13 +78,13 @@ $PASSWORD = ''; // (Opcional) contraseña para acceder
 
 ---
 
-##💡 Si deseas proteger el acceso al gestor, establece una contraseña:
+## 💡 Si deseas proteger el acceso al gestor, establece una contraseña:
 
 $PASSWORD = 'MiClaveSegura123';
 
 ---
 
-##🧩 Estructura y Funciones Clave
+## 🧩 Estructura y Funciones Clave
 
 get_absolute_path() → Evita rutas relativas o salidas del directorio raíz.
 
@@ -98,7 +98,7 @@ showfile → Permite mostrar archivos directamente en el navegador.
 
 ---
 
-##🧠 Seguridad
+## 🧠 Seguridad
 
 El sistema incluye varias capas de protección:
 
@@ -114,7 +114,7 @@ Bloqueo opcional de eliminación de archivos.
 
 ---
 
-##📱 Diseño Responsive
+## 📱 Diseño Responsive
 
 En móviles y tablets:
 
@@ -126,7 +126,7 @@ Mantiene un diseño claro y legible con sombra y espaciado.
 
 ---
 
-##📸 Personalización Visual
+## 📸 Personalización Visual
 
 Fondo: final.png (puedes reemplazarlo por cualquier imagen).
 
@@ -138,7 +138,7 @@ Formularios compactos con bordes redondeados y acentos Flame (#EA672D).
 
 ---
 
-##🧰 Requisitos
+## 🧰 Requisitos
 
 Servidor con PHP 7.4 o superior.
 
@@ -152,7 +152,7 @@ json
 
 ---
 
-##🔧 Instalación
+## 🔧 Instalación
 
 Copia el archivo index.php en el servidor o carpeta que quieras administrar.
 
@@ -166,7 +166,7 @@ Copia el archivo index.php en el servidor o carpeta que quieras administrar.
 
 ---
 
-##🧾 Licencia
+## 🧾 Licencia
 
 Este proyecto se distribuye libremente para uso personal o comercial.
 Puedes modificarlo según tus necesidades, pero se recomienda mantener las medidas de seguridad integradas.
