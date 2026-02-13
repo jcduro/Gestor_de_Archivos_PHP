@@ -166,10 +166,6 @@ Copia el archivo index.php en el servidor o carpeta que quieras administrar.
 
 ---
 
-## 🧾 Licencia
-
-Este proyecto se distribuye libremente para uso personal o comercial.
-Puedes modificarlo según tus necesidades, pero se recomienda mantener las medidas de seguridad integradas.
 
 
 Abre el archivo desde tu navegador:
@@ -177,3 +173,16 @@ Abre el archivo desde tu navegador:
    ```bash
    https://github.com/jcduro/Gestor_de_Archivos_php
 
+
+```
+
+--- 
+## 📄 Licencia
+Libre, usalo como quieras
+<div align="center">
+  Hecho con 💙 y neones
+</div>
+
+---
+
+## ⭐ Si te gustó este proyecto, no olvides dejar una estrella en GitHub!
